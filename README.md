@@ -60,11 +60,12 @@ To run the game, you need to have Python and Pygame installed on your system.
 
 ## File Structure
 
-├── pong_enhanced.py # Main game script
-├── pong.png # Window icon
-├── golpe_paleta.mp3 # Sound for paddle hits
-├── golpe_pared.mp3 # Sound for wall bounces
-├── punto.mp3 # Sound for scoring a point
-├── cuenta.mp3 # Sound for the countdown
-├── inicio.mp3 # Sound for starting a round
-└── scripts/ # (Directory for future scripts, currently empty)
+├── pong_enhanced.py      # Main game script
+├── pong.png              # Window icon
+├── golpe_paleta.mp3      # Sound for paddle hits
+├── golpe_pared.mp3       # Sound for wall bounces
+├── punto.mp3             # Sound for scoring a point
+├── cuenta.mp3            # Sound for the countdown
+├── inicio.mp3            # Sound for starting a round
+└── scripts/              # (Directory for future scripts, currently empty)
+
