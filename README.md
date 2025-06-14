@@ -30,22 +30,23 @@ To run the game, you need to have Python and Pygame installed on your system.
     pip install pygame
     ```
 
-### Running the Game
+### ▶️ Running the Game
 
 1.  Clone this repository:
     ```bash
-    git clone [https://github.com/SimonDevJS/pong.git](https://github.com/SimonDevJS/pong.git)
+    git clone https://github.com/SimonDevJS/pong.git
     ```
 
 2.  Navigate to the project folder:
     ```bash
-    cd YOUR_REPOSITORY
+    cd pong
     ```
 
 3.  Run the Python script:
     ```bash
     python pong_enhanced.py
     ```
+
 
 ## Controls
 
