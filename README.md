@@ -59,7 +59,7 @@ To run the game, you need to have Python and Pygame installed on your system.
     -   `P` - Pause / Resume Game
 
 ## File Structure
-
+```text
 ├── pong_enhanced.py      # Main game script
 ├── pong.png              # Window icon
 ├── golpe_paleta.mp3      # Sound for paddle hits
