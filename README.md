@@ -34,7 +34,7 @@ To run the game, you need to have Python and Pygame installed on your system.
 
 1.  Clone this repository:
     ```bash
-    git clone [https://github.com/SimonDevJS/YOUR_REPOSITORY.git](https://github.com/SimonDevJS/YOUR_REPOSITORY.git)
+    git clone [https://github.com/SimonDevJS/pong.git](https://github.com/SimonDevJS/pong.git)
     ```
 
 2.  Navigate to the project folder:
